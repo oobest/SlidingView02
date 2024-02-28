@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingView">
+        <attr name="above_view" format="reference" />
+        <attr name="below_view" format="reference" />
+    </declare-styleable>
+</resources>
